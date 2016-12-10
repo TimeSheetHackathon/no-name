@@ -2,4 +2,6 @@
 <resources>
     <string name="placeholder_username">Advin Roy Netto</string>
     <string name="placeholder_email">advin@thoughtworks.com</string>
+    <string name="placeholder_date">28 Nov - 4 Dec 2016</string>
+    <string name="placeholder_timesheet_status">Approved</string>
 </resources>

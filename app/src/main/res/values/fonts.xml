@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="opensans_bold">
+        <item name="fontPath">fonts/OpenSans-Bold.ttf</item>
+    </style>
+
+    <style name="opensans_semibold">
+        <item name="fontPath">fonts/OpenSans-SemiBold.ttf</item>
+    </style>
+
+    <style name="opensans_light">
+        <item name="fontPath">fonts/OpenSans-Light.ttf</item>
+    </style>
+
+    <style name="opensans_extra_bold">
+        <item name="fontPath">fonts/OpenSans-ExtraBold.ttf</item>
+    </style>
+
+    <style name="opensans_regular">
+        <item name="fontPath">fonts/OpenSans-Regular.ttf</item>
+    </style>
+
+</resources>
