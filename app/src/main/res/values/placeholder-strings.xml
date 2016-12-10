@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="placeholder_username">Advin Roy Netto</string>
+    <string name="placeholder_email">advin@thoughtworks.com</string>
+</resources>
